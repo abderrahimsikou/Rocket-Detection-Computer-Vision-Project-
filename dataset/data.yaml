@@ -1,0 +1,5 @@
+train: C:\Users\FUJI\Desktop\Rocket detection (Computer Vision Project)\dataset\train
+val  : C:\Users\FUJI\Desktop\Rocket detection (Computer Vision Project)\dataset\valid
+
+nc   : 1
+names: ['rocket']
