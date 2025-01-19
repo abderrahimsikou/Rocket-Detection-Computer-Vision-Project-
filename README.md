@@ -4,6 +4,9 @@
 Object detection system developed with YOLO techniques
 Build an AI/ML Rocket detection system with YOLO
 
+## Output
+![Result](output/rock.PNG)
+
 ## Features
 - Uses YOLO to train Model.
 - Trains on  dataset to detect rockets.
